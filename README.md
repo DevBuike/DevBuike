@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Emmanuel Chibuike Nnaji!</h1>
+<h1 align="center">👋 Hi, I'm Emmanuel Chibuike Nnaji</h1>
 <p align="center">
   A passionate Frontend Developer & Software Engineering Learner at <strong>ALX ProDev</strong> 🚀
 </p>
